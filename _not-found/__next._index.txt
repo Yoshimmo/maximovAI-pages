@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[3456,[],""]
+3:I[8454,[],""]
+:HL["/maximovAI-pages/_next/static/css/e445c499168270a9.css","style"]
+0:{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/maximovAI-pages/_next/static/css/e445c499168270a9.css","precedence":"next"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"DkRyyk9roLJ7PbrPsxBD6"}
